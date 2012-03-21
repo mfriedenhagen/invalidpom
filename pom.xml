@@ -33,6 +33,7 @@
         </plugins>
     </build>
     <modules>
-        <module>child</module>
+        <module>child-invalid</module>
+        <module>child-valid</module>
     </modules>
 </project>

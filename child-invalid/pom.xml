@@ -6,7 +6,7 @@
         <artifactId>invalidpom</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <artifactId>child</artifactId>
+    <artifactId>child-invalid</artifactId>
     <packaging>pom</packaging>
-    <name>child</name>
+    <name>child-invalid</name>
 </project>
